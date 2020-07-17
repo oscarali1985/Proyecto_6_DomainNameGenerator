@@ -55,3 +55,7 @@ header.entry-header h1 {
 .service {
   padding: 150px 0;
 }
+
+.domain{
+  font-weight:bold;
+}
